@@ -1,1 +1,0 @@
-# practice-for-CH-react-dummy-practice
